@@ -1,4 +1,4 @@
-from prueba import login_saucedemo,get_driver
+from login import login_saucedemo,get_driver
 from inventory import InventoryPage
 from inventory import InventoryPage
 from selenium.webdriver.common.by import By
